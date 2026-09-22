@@ -1,3 +1,10 @@
-this is just 4h tesing document to check 
-- weather i can confirm document loader of not 
-- or iot is just nothing to be consirned 
+"FastAPI is a modern Python web framework used for building APIs.",
+    "FastAPI uses Python type hints for request validation and API documentation.",
+    "Machine learning models learn patterns from data to make predictions.",
+    "Deep learning uses neural networks with multiple layers to learn complex patterns.",
+    "RAG combines document retrieval with a language model to generate grounded answers.",
+    "Embeddings convert text into numerical vectors that capture semantic meaning.",
+    "Vector databases store embeddings and allow similarity-based searches.",
+    "Cosine similarity measures how similar two vectors are based on their direction.",
+    "Python is a popular programming language for machine learning and artificial intelligence.",
+    "Transformers are neural network architectures widely used for modern language models."

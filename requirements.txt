@@ -3,4 +3,11 @@ python-dotenv
 ipykernel
 langchain_community
 pypdf
+langchain_huggingface
+langchain-core 
+langchain-google-genai 
 langchain_text_splitters
+sentence_transformers
+chromadb 
+langsmith
+
